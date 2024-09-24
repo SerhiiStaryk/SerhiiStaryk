@@ -2,7 +2,7 @@
 
 # About Me:
 
-I’m Serhii Staryk, a Junior Software Engineer with over 2 years of experience in front-end technologies. I spend most of my time coding and learning about new technologies.
+I’m Serhii Staryk, a Software Engineer with over 2.5 years of experience in front-end technologies. I spend most of my time coding and learning about new technologies.
 
 # Socials:
 [![Linkedin Badge](https://img.shields.io/badge/Serhii%20Statyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-staryk/)  [![Static Badge](https://img.shields.io/badge/Serhii%20Statyk-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/SerhiiS1)
